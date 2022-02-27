@@ -9,4 +9,7 @@ And then the main Oh My ZSH configuration is in the ".zshrc" file which is based
 
 To use the files from this repository you only need to place them in your user's directory, in the case of ubuntu it would be <code>/home/.p10k.zsh</code>
 
+---
+### Credits:
+* [Luke Smith](https://gist.github.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52) (for inspiring this setup)
 
